@@ -1,0 +1,43 @@
+# Cache / generated data
+Cache/
+Metadata/
+Build/
+
+# User-specific files
+*.user
+*.usersettings
+*.workspace
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.autosave
+
+# Logs
+*.log
+
+# Generated banks
+*.bank
+*.strings.bank
+*.assets.bank
+*.guids.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Visual Studio
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Keep FMOD source project files
+!*.fspro
+!*.fsbank
+!*.xml
