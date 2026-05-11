@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5f7654df-8277-4209-a7d6-a1503d4e84d2}">
+		<property name="assetPath">
+			<value>Music/something_is_wrong_gris.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>68.571428571428569</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
+		</relationship>
+	</object>
+</objects>
