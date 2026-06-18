@@ -5,6 +5,7 @@ Build/
 # User-specific
 *.user
 *.workspace
+*.cache
 
 # Temp
 *.tmp
