@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{81dea362-7a57-4e7b-97c7-9954a4109a94}">
+		<property name="assetPath">
+			<value>Sounds/TelevisionShow/Low_mumbling.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.92</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
+		</relationship>
+	</object>
+</objects>

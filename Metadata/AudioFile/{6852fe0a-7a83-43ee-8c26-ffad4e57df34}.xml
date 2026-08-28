@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6852fe0a-7a83-43ee-8c26-ffad4e57df34}">
+		<property name="assetPath">
+			<value>Sounds/TelevisionShow/Intro-jingle_dark-ambient-mystere.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.904</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
+		</relationship>
+	</object>
+</objects>
