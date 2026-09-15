@@ -5,7 +5,7 @@
 			<value>Blue's at home v4 2</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1b3799e1-1b09-46d7-a1b6-1d180b39b625}</destination>
@@ -130,7 +130,6 @@
 	<object class="MixerBusEffectChain" id="{45ebad96-0060-4d98-bc2e-63fecffc7f33}">
 		<relationship name="effects">
 			<destination>{b4cd0937-b0b7-45eb-afd5-84eba29a8238}</destination>
-			<destination>{d169008e-c4a3-444b-b292-3e0f88ac0818}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5a04edfa-9f6f-41fc-9e8c-5d230a94f7fe}" />
@@ -142,6 +141,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{7c7022ce-e2ef-4139-8f98-4f0a1f7af788}" />
 	<object class="MixerBusFader" id="{b4cd0937-b0b7-45eb-afd5-84eba29a8238}" />
-	<object class="SpatialiserEffect" id="{d169008e-c4a3-444b-b292-3e0f88ac0818}" />
 	<object class="MixerBusFader" id="{1d717798-e788-4206-a949-e6ce7c0fa21f}" />
 </objects>

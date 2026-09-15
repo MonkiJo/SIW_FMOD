@@ -5,7 +5,7 @@
 			<value>office_loop_low 2</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1b3799e1-1b09-46d7-a1b6-1d180b39b625}</destination>
@@ -130,7 +130,6 @@
 	<object class="MixerBusEffectChain" id="{7f204534-08bd-4e5c-b171-fef04f0c259e}">
 		<relationship name="effects">
 			<destination>{7dccdbb8-c151-4a24-8120-4080976e491e}</destination>
-			<destination>{fb15c20b-d389-44b3-bae2-73327e3ff632}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{270ebb38-1635-470b-ae94-7cf6f67b78ca}" />
@@ -142,10 +141,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{efe4f5a5-e512-4e55-8db5-d22de65f16c3}" />
 	<object class="MixerBusFader" id="{7dccdbb8-c151-4a24-8120-4080976e491e}" />
-	<object class="SpatialiserEffect" id="{fb15c20b-d389-44b3-bae2-73327e3ff632}">
-		<property name="distanceRolloffType">
-			<value>4</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{ab31a742-d2ea-4938-b8ba-42f2d52268aa}" />
 </objects>
