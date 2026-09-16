@@ -5,7 +5,7 @@
 			<value>KGB_spotlight_on</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{7ac617b2-7542-48f0-b461-672ad23b7ead}</destination>
@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{88bdc49b-eac6-4b74-ac48-a28af74373ba}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{d6f953ac-e6e7-49a8-bbd4-ad4bb332b511}</destination>
 		</relationship>
@@ -96,7 +99,6 @@
 	<object class="MixerBusEffectChain" id="{d6f953ac-e6e7-49a8-bbd4-ad4bb332b511}">
 		<relationship name="effects">
 			<destination>{78594fe2-86a4-4140-8f2d-0f5bee1de780}</destination>
-			<destination>{01d09cb0-0306-4c97-89cd-1f55a2e5fcc7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{fa775a0b-0943-4016-8c14-9be5642d892a}" />
@@ -107,5 +109,4 @@
 	</object>
 	<object class="MixerBusFader" id="{a54f32fd-db98-4f61-ba6f-dacf4796b05e}" />
 	<object class="MixerBusFader" id="{78594fe2-86a4-4140-8f2d-0f5bee1de780}" />
-	<object class="SpatialiserEffect" id="{01d09cb0-0306-4c97-89cd-1f55a2e5fcc7}" />
 </objects>
