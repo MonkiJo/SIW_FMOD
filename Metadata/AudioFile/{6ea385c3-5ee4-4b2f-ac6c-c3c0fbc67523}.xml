@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{fc273128-c560-48eb-8067-76f4ae937cb9}">
+	<object class="AudioFile" id="{6ea385c3-5ee4-4b2f-ac6c-c3c0fbc67523}">
 		<property name="assetPath">
-			<value>Sounds/Computer/thinking robot.mp3</value>
+			<value>Sounds/Computer/AlertChime.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>5.1120000000000001</value>
+			<value>2.1360000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
