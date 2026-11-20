@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+<<<<<<<< HEAD:Metadata/AudioFile/{6ea385c3-5ee4-4b2f-ac6c-c3c0fbc67523}.xml
+	<object class="AudioFile" id="{6ea385c3-5ee4-4b2f-ac6c-c3c0fbc67523}">
+		<property name="assetPath">
+			<value>Sounds/Computer/AlertChime.mp3</value>
+========
+	<object class="AudioFile" id="{2175d8db-baa4-45c0-9509-4ab76f5daf13}">
+		<property name="assetPath">
+			<value>Sounds/Misc/coin_sound.mp3</value>
+>>>>>>>> 7e2cc00ca17e0067ff06c57f451d8998d82a1179:Metadata/AudioFile/{2175d8db-baa4-45c0-9509-4ab76f5daf13}.xml
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+<<<<<<<< HEAD:Metadata/AudioFile/{6ea385c3-5ee4-4b2f-ac6c-c3c0fbc67523}.xml
+			<value>2.1360000000000001</value>
+========
+			<value>5.04</value>
+>>>>>>>> 7e2cc00ca17e0067ff06c57f451d8998d82a1179:Metadata/AudioFile/{2175d8db-baa4-45c0-9509-4ab76f5daf13}.xml
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
+		</relationship>
+	</object>
+</objects>
