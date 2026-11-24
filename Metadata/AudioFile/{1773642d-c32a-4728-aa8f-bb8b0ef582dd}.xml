@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{2a08d318-b817-4299-9d1f-d790608ce3ac}">
+	<object class="AudioFile" id="{1773642d-c32a-4728-aa8f-bb8b0ef582dd}">
 		<property name="assetPath">
-			<value>miraclei-sample_soft_alert04_kofi_by_miraclei-360127.mp3</value>
+			<value>Sounds/Computer/ArnoldWheelButtonHover.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.5934693877551021</value>
+			<value>0.26400000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
