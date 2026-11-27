@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{26489ae9-ece9-4665-bd13-bf11e81be739}">
+	<object class="AudioFile" id="{003e30ef-b03f-4e48-8b8a-a000ee677e03}">
 		<property name="assetPath">
-			<value>Sounds/Computer/ArnoldWheelOpen.mp3</value>
+			<value>Sounds/Computer/InfoNewAlertBis.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.59999999999999998</value>
+			<value>2.5338775510204083</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{0f7f2c8a-61f8-4492-9601-365475472fc0}</destination>
